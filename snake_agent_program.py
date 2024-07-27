@@ -25,3 +25,5 @@ Please, do not change the parameters of this function.
 """
 def snake_agent_program(percepts, actuators):
     pass
+
+this is code written by anil
